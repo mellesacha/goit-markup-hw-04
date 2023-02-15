@@ -472,3 +472,7 @@ img {
 .projects-description .section-subtitle {
   margin-bottom: 8px;
 }
+
+.projects-description .section-text {
+  color: #434455;
+}

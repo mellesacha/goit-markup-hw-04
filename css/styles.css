@@ -303,7 +303,7 @@ img {
 }
 
 .team-social-link:hover {
-  border-color: var(--active-state-elem);
+  background-color: var(--active-state-elem);
 }
 
 /* customers */
